@@ -1,8 +1,18 @@
 ## SYNBUILD-3D: Dataset and Visualization Code
 
-This repository contains code and instructions for working with the SYNBUILD-3D dataset, a large-scale dataset of semantically enriched 3D building models at Level of Detail 4.
+![](assets/building_datasets_comparison.png)
+
+This repository contains code and instructions for working with the SYNBUILD-3D dataset, a large-scale dataset of more than 6.2 million semantically enriched 3D building models at Level of Detail 4, including corresponding floor plan images and LiDAR-like roof point clouds.
+
+### 💻 Generation Pipeline 
+
+![](assets/pipeline_overview.png)
+
+Code to replicate and extend the dataset will be added soon. Paper under review at the moment.
 
 ### 📦 Dataset
+
+![](assets/dataset_example.png)
 
 Download the dataset from [Stanford Research Data (SDR)](https://purl.stanford.edu/kz908vb7844). 
 
@@ -25,6 +35,8 @@ Synbuild-3D-NeurIPS-Release/
 ```
 
 ### 🧪 Visualization Setup
+
+![](assets/dataset_visualization.png)
 
 Set up your environment with:
 
