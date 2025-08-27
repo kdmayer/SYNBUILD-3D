@@ -1,0 +1,11 @@
+tqdm
+torch
+snakeviz
+plotly
+scipy
+numpy
+notebook
+schedulefree
+wandb
+shapely
+point-transformer-pytorch
