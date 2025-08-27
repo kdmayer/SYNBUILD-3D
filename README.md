@@ -24,7 +24,7 @@ Synbuild-3D-NeurIPS-Release/
 │   └── sample_100/       # Extracted from sample_100.zip
 ```
 
-### 🧪Visualization Setup
+### 🧪 Visualization Setup
 
 Set up your environment with:
 
