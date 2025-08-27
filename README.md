@@ -64,7 +64,8 @@ If you use this dataset, please cite our work as:
 ```bibtex
 @dataset{synbuild3d, 
     title = {SYNBUILD-3D: A large, multi-modal, and semantically rich synthetic dataset of 3D building models at Level of Detail 4}, 
-    author = {Mayer, Kevin and Vesel, Alex and Zhao, Xinyi and Fischer, Martin}, year = {2025}, 
+    author = {Mayer, Kevin and Vesel, Alex and Zhao, Xinyi and Fischer, Martin}, 
+    year = {2025}, 
     publisher = {Stanford Research Data}, 
     doi = {https://doi.org/10.25740/kz908vb7844}, 
     url = {https://purl.stanford.edu/kz908vb7844} 
