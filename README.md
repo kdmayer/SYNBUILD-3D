@@ -1,3 +1,10 @@
+## TLDR: SYNBUILD-3D
+
+A large, multi-modal, and semantically rich synthetic dataset of 6.2+ million 3D building models at Level of Detail 4
+
+- Paper: https://arxiv.org/abs/2508.21169
+- Dataset: https://purl.stanford.edu/kz908vb7844
+
 ## SYNBUILD-3D: Dataset and Visualization Code
 
 ![](assets/building_datasets_comparison.png)
