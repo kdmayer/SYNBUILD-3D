@@ -1,15 +1,11 @@
 ## TLDR: SYNBUILD-3D
 
-A large, multi-modal, and semantically rich synthetic dataset of 6.2+ million 3D building models at Level of Detail (LoD) 4
+This repository contains code and instructions for working with the SYNBUILD-3D dataset, a large-scale dataset of more than 6.2 million semantically enriched 3D building models at Level of Detail 4, including corresponding floor plan images and LiDAR-like roof point clouds.
 
 - Paper: https://arxiv.org/abs/2508.21169
 - Dataset: https://purl.stanford.edu/kz908vb7844
 
-## SYNBUILD-3D: Dataset and Visualization Code
-
 ![](assets/building_datasets_comparison.png)
-
-This repository contains code and instructions for working with the SYNBUILD-3D dataset, a large-scale dataset of more than 6.2 million semantically enriched 3D building models at Level of Detail 4, including corresponding floor plan images and LiDAR-like roof point clouds.
 
 ### 💻 Generation Pipeline 
 
