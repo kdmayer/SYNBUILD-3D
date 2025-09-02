@@ -11,7 +11,7 @@ This repository contains code and instructions for working with the SYNBUILD-3D 
 
 ![](assets/pipeline_overview.png)
 
-Code to replicate and extend the dataset will be added soon. Paper under review at the moment.
+Code to replicate and extend the dataset will be added soon. Paper under review.
 
 ### 📦 Dataset
 
